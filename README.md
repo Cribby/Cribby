@@ -36,4 +36,4 @@ I am an IT Specialist with coursework in Cloud Computing, focused on continusous
 ---
 
 ### 📫 Connect with me:
-* [LinkedIn](www.linkedin.com/in/christopherdinneen-it)
+* [LinkedIn](https://www.linkedin.com/in/christopherdinneen-it)
